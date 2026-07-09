@@ -67,13 +67,15 @@ ul li a{
     text-decoration: none;
 }
 
-
+.hero-parent-root{
+ background:rgb(182, 174, 204);
+}
 
 .hero-parent{
    display: flex;
    justify-content: space-between;
    align-items: center;
-  
+ 
     
  
 }   
@@ -85,7 +87,7 @@ ul li a{
 
 }
 
-.hero-left-p-2{8
+.hero-left-p-2{
       font-size: 15px;
     font-weight: 600;
 
@@ -99,8 +101,4 @@ ul li a{
 
 .hero-left-button-parent{
     margin-top: 12px;
-}
-
-.hero-parent-root{
-    justify-content: space-between;
 }
